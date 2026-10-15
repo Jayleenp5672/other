@@ -1,9 +1,9 @@
 # Process Writeup
 
-## Name: 
-## Course: 
-## Period: 
-## Concept: 
+## Name: Jayleen Perez 
+## Course: SEP 10 (web Design)
+## Period: 3
+## Concept: HTMl basics
 
 ### Section
 
